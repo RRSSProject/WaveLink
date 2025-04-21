@@ -1,0 +1,32 @@
+a
+b
+c
+d
+del
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+nothing
+o
+p
+q
+r
+s
+scroll down
+scroll up
+select
+space
+t
+u
+v
+w
+x
+y
+z
