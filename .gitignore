@@ -98,3 +98,4 @@ ENV/
 /site
 
 training_summaries/
+bottlenecks/
